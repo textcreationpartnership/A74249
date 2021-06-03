@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Red-coats catechisme, or, Instructions to be learned by every one that desires to be admitted to be one of the Parliaments Janizaries</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74249</idno><idno type="EEBO-CITATION">50922801</idno>
+  <idno type="VID">168778</idno>
+  <idno type="EEBO-PROQUEST">2240874173</idno>
+  
+            <idno type="STC">Thomason E1015_15</idno>
+            <idno type="OCLC">50922801</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168778)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1015[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Red-coats catechisme, or, Instructions to be learned by every one that desires to be admitted to be one of the Parliaments Janizaries</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>Printed in the year, 1659. [i.e. 1660].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The publication year is given according to Lady Day dating. Wing has 1659[60].</note>
+                  <note>A satire.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term type="topical_term">Political satire, English --  17th Century.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168778:1"/>
+            <p>THE RED-COATS CATECHISME OR INSTRUCTIONS TO BE LEARNED By every one that desires to be admitted to be one of the PARLIAMENTS JANIZARIES.</p>
+            <p>
+               <hi>LONDON.</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="mock_catechism">
+            <pb facs="tcp:168778:2"/>
+            <pb n="3" facs="tcp:168778:2"/>
+            <head>The <hi>RED-COATS</hi> Catechisme, or Instructions to be learned by every one that Desires to be one of the <hi>Par<g ref="char:EOLhyphen"/>liaments Janizaries.</hi>
+            </head>
+            <p>Quest. <hi>WHat is your Name?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> Red-Coat.</p>
+            <p>Quest. <hi>Who gave you that Name?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> My God Fathers and God Mothers.</p>
+            <p>Quest. <hi>Who were they?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> Several. Necessity, Idlenesse, Murder, Rapine, Theft, principally the Divel and the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>Quest. <hi>I perceive you have Testimonies sufficient to bear witnesse to your Name; But what did these your God-Fathers and God-Mothers promise for you?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> That I should all my Life long Live in Penury, and Misery; that I should alwaies with the DOG preferre Hunger and Ease, before Plenty and Diligence; and not stick at any ad<g ref="char:EOLhyphen"/>vantagious Acts though never so Villanous, and that I should promote the Slaughter, and Butche<g ref="char:EOLhyphen"/>ring of my lawful Soveraign, and Sacrifice him to
+<pb n="4" facs="tcp:168778:3"/> the lust of the <hi>Elders</hi> the Parliament, and their <hi>Caiaphas Cromwell.</hi>
+            </p>
+            <p>Quest. <hi>Was this all they did engage for you?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> No. They did Promise and Vow three things in my Name First, That I should utterly forsake God and all his Works, and shake of all Obedience to the Pomp and Vanities of KING or House of LORDS with whatsoever is con<g ref="char:EOLhyphen"/>sonant either to Law or Gospel. Secondly, That I should believe all the Articles of the Parliaments Faith, without Hesitation or Scruple. And Thirdly, To keep and observe all their Acts and Ordinances, and walk in the same all the daies of my Life.</p>
+            <p>Quest. <hi>Dost thou not think that thou art bound to believe and do, as they have promised for thee?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> Yes Verily and by the D<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vels help and Sir <hi>Arthurs</hi> I will, and I hartily thank our infernal Fa<g ref="char:EOLhyphen"/>ther <hi>Belzebub,</hi> that he hath called me to this state of Damnation, through his dear Child the Parlia<g ref="char:EOLhyphen"/>ment. And I pray Satan to supply me continu<g ref="char:EOLhyphen"/>ally with such Divelish intentions, as may conti<g ref="char:EOLhyphen"/>nue me in it unto my lives end.</p>
+            <p>Quest. <hi>Rehearse the Articles of thy belief?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> I believe in the Divel the Father of Secta<g ref="char:EOLhyphen"/>ries and sworn enemy to Religion or Reason, and in his dearly beloved Spawn the Parliament, which was conceived by the necessities of the King, born of the discontents of the people: suffe<g ref="char:EOLhyphen"/>red under <hi>Oliver Cromwell,</hi> was dissolved, cashiered
+<pb n="5" facs="tcp:168778:3"/> and turned out, and for a while sent packing to Hell; but at last rose again, and ascended into its former place, and now sitteth on the right hand of <hi>London</hi> that Rebellious and stiffe-necked City; from whence it shall come to take vengance of them for their stubborn misdemeanours, I believe in Sir <hi>Arthur Hasilrigge</hi> the whole number of Se<g ref="char:EOLhyphen"/>ctaries and Conventicles the Council of State, the Act of Oblivion, the resurrection of my Lord <hi>Lambert,</hi> and the contriuance of our power to e<g ref="char:EOLhyphen"/>verlasting.</p>
+            <p>Quest. <hi>What dost thou chiefly learn by this thy belief.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> First, I learn to believe in the Parliament, who hath made me and all the rest of my good brethren.</p>
+            <p>Secondly in General <hi>Monke</hi> who hath redemed our Good old Cause from the jaws of the wicked.</p>
+            <p>Thirdly, In Sir <hi>Arthur Hesilrigge</hi> who by his stre<g ref="char:EOLhyphen"/>nuous endeavours hath sanctified our interest.</p>
+            <p>Quest. <hi>You told me that your God-Father, and God-Mother did promise for you, that you should keep and observe all the Parliaments; Commandments tell me how many there be?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> Divers.</p>
+            <p>Quest. <hi>Which be they?</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> These were given to us by our God the Parliament, when they assumed illegally the whole power and authority of these Nations into their hands, telling us. We are your only Lords and Masters that have redeemed you from the Tyran<g ref="char:EOLhyphen"/>nical
+<pb n="6" facs="tcp:168778:4"/> Government of a King or Single person, and brought you into the Freedom of a Lawless usur<g ref="char:EOLhyphen"/>pation.</p>
+            <list>
+               <item n="1">1. Thou shalt have no other Generals but us.</item>
+               <item n="2">2. Thou shalt not set up any lawful Magistrate, King, Protector, or Single Person, or any thing in their likenesse. Thou shalt not subject thy self to them nor truckle under them. For we your Lords and Masters are of so boundlesse spirits and so furious ambition, that whosoever shall offer re<g ref="char:EOLhyphen"/>sist to us, we shall punish them, Sequester their E<g ref="char:EOLhyphen"/>states, and ruine their Families for ever; but those that will quietly submit their Ass-like backs to the intollerable slavery of our Lawlesse burdens, we will feed with the gracious Sugar-plums of <hi>Kings Deans</hi> and <hi>Chapters</hi> Lands for the maintenance of their Wives and Children.</item>
+               <item n="3">3. Thou shalt not abuse our name with those ignominious terms of <hi>Rump, Tail, or Fagg end</hi> for we have deeply sworn, that his Arse shall make But<g ref="char:EOLhyphen"/>tons, who shall dare to affront us in that Nature.</item>
+               <item n="4">4. Thou shalt remember to be present at the <hi>Guard</hi> day, the rest of the daies you may follow your lawful Vocations of Pimping, Picking of Pockets, Filching or the like; but that is who<g ref="char:EOLhyphen"/>ly to be reserved to our service: thou shalt be sure then to give thy attendance with all due and care<g ref="char:EOLhyphen"/>ful
+<pb n="7" facs="tcp:168778:4"/> preparation of Sword, Musket, and Bande<g ref="char:EOLhyphen"/>leers: for this is a day wherein you must be dili<g ref="char:EOLhyphen"/>gent, to preserve our security, lest we should be disturbed in our making those good Ordinances of Laws, Excise and such other Acts of Grace for your good &amp; the ruine of this malignant Nation.</item>
+               <item n="5">5. Have an awful and reverent fear in thy mind of us, that so thou mayest long enjoy thy place, without danger of being Disbanded or cashiered.</item>
+               <item n="6">6. Thou shalt when Commanded, Commit what Murder or Slaughter, we shall think fit.</item>
+               <item n="7">7. Thou shalt at all times hold it lawful and take all occasions to lye with the Citizens Wives, wich may be a means to provide you with Linnen and other necessaries, which your want of pay may cause your indigence of.</item>
+               <item n="8">8. Thou shalt Plunder, Filch, and Steal any thing thou canst lay thy hands on, for herein you come nearest to our example, and similitude in our grand Robberies and Sequestrations.</item>
+               <item n="9">9. Thou shalt not stick to Trapan, betray, swear, forswear any thing never so false which may con<g ref="char:EOLhyphen"/>duce to our interest and advantage.</item>
+               <item n="10">10. Thou shalt desire &amp; covet above all things the Plunder of the City, the Ravishing of their
+<pb n="8" facs="tcp:168778:5"/> Wives, the Knocking down of their Prentices, and taking from them all that they have for the inrich<g ref="char:EOLhyphen"/>ing of us and the Good old Cause.</item>
+            </list>
+            <p>Well my Friend, I see you are sufficiently en<g ref="char:EOLhyphen"/>structed in your Duty and Cause, and so I see no reason why you should not receive confirmation, and have the Red-Coat laid on your shoulders.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:168778:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
